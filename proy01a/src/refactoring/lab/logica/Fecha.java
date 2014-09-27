@@ -4,6 +4,7 @@ public class Fecha {
 	private int dia;
 	private int mes;
 	private int anio;
+	private int test;
 	
 	public Fecha(int dia, int mes, int anio) {
 		this.dia = dia;
